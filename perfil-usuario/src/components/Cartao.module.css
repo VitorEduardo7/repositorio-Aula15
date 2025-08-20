@@ -1,0 +1,16 @@
+.cartao {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .imagem {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
